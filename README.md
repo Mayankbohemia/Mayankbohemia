@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Front-end developer.<br>Currently working on React.js.<br>On a road to become a Full stack developer.
+Hello! I'm Mayank Joshi, a passionate front-end developer.<br>I specialize in building interactive and responsive web applications using HTML, CSS, and JavaScript. I also have hands-on experience with popular frameworks like React and Next.Js, enabling me to create seamless user experiences.<br> created multiple projects like Bankist Application, Crypto-Tracker.<br>On a road to become a Full stack developer.
 
 
 ## 🌐 Socials:
